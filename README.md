@@ -1,11 +1,14 @@
 project :- esp-bulk-data-upload
 
-Uploading the bulk data
-1) we can upload entire JSON structure as a single attribute i.e. Map.
-2) we can also convert it to Map back to JSON 
+API:-
+1. boolean saveComplexJson(User user)
+
+Uploading the bulk data 
+1) We can upload entire JSON structure as a single attribute i.e. Map.
+2) We can also convert from Map back to JSON 
 
 Example request body :- We can send any complex json structure to a single attribute and store it in DB.
-example1):- 
+example1):-  
 
 {
 "userId":"123",
