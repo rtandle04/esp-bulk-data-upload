@@ -8,7 +8,7 @@ Uploading the bulk data
 2) We can also convert from Map back to JSON 
 
 Example request body :- We can send any complex json structure to a single attribute and store it in DB.
-example1):-  
+example1):-  In the below example userData json strucutre as a single attribute
 
 {
 "userId":"123",
