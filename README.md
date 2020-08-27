@@ -6,6 +6,7 @@ Uploading the bulk data
 
 Example request body :- We can send any complex json structure to a single attribute and store it in DB.
 example1):- 
+
 {
 "userId":"123",
 "userData":{"userName":"ramakanth",
